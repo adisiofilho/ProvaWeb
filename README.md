@@ -86,7 +86,7 @@ POST /api/produtos: Cria um novo produto, associando-o a uma categoria existente
 
 Utilize ferramentas como Postman ou Insomnia para testar as rotas e realizar as requisições.
 
-#Requisitos Atendidos
+# Requisitos Atendidos
 
 CRUD completo para as entidades Categoria e Produto.
 
